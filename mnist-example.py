@@ -1,6 +1,6 @@
 from keras.datasets import mnist
 from mlp import MLP
-from layer import *
+from layers import *
 from activations import *
 
 
