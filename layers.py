@@ -1,4 +1,4 @@
-import numpy
+import numpy as np
 
 class DenseLayer:
   def __init__(self, inputs, outputs):
