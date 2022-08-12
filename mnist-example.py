@@ -13,7 +13,7 @@ layers = [
   InputLayer(),
   Flatten(),
   DenseLayer(784, 60),
-  Relu(),
+  Sigmoid(),
   DenseLayer(60, 10),
   Sigmoid(),
 ]
