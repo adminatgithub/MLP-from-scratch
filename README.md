@@ -1,2 +1,2 @@
-#MLP-from-scratch
+#MLP-from-scratch#
 Modular Multilayer Perceptron in Python
