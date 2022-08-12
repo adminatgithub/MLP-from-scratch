@@ -21,4 +21,4 @@ layers = [
 mlp = MLP(layers)
 
 
-mlp.fit(x_train=x_train, y_train=y_train, x_test=x_test, y_test=y_test,lr=0.01, epochs=10, batch_size=128))
+mlp.fit(x_train=x_train, y_train=y_train, x_test=x_test, y_test=y_test,lr=0.01, epochs=10, batch_size=128)
