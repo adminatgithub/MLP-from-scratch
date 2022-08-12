@@ -1,3 +1,5 @@
+import numpy
+
 class DenseLayer:
   def __init__(self, inputs, outputs):
     self.x = None
