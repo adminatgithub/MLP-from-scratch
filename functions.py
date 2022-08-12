@@ -1,3 +1,5 @@
+import numpy as np
+
 def encode(index, size):
   vec = [0. for i in range(size)]
   vec[index] = 1.
