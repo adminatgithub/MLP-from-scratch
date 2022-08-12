@@ -1,3 +1,5 @@
+import numpy as np
+
 class Sigmoid:
   def __init__(self):
       self.x = None
