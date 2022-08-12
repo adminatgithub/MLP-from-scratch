@@ -1,4 +1,5 @@
 import numpy as np
+from functions import *
 
 class MLP:
   def __init__(self, layers):
